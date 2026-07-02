@@ -1,2 +1,10 @@
-# image-grayscale-tool-wqk1
-Small CLI tool that converts images to grayscale using Pillow.
+# Image Grayscale Converter
+
+A small CLI tool that converts any image to grayscale using Pillow.
+
+## Usage
+
+```
+pip install -r requirements.txt
+python main.py input.jpg output.jpg
+```
