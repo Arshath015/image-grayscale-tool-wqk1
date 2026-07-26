@@ -12,3 +12,10 @@ python main.py input.jpg output.jpg
 
 ---
 **Last updated:** 2026-07-22
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
