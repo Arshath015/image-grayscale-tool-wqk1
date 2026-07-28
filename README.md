@@ -1,5 +1,7 @@
 # Image Grayscale Converter
 
+![Python](https://img.shields.io/badge/python-3.x-blue.svg)
+
 A small CLI tool that converts any image to grayscale using Pillow.
 
 ## Usage
