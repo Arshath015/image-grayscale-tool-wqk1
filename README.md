@@ -13,7 +13,7 @@ python main.py input.jpg output.jpg
 
 
 ---
-**Last updated:** 2026-08-18
+**Last updated:** 2026-08-19
 
 
 ## Requirements
